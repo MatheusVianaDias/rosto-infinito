@@ -1,0 +1,28 @@
+body{
+  background-color: black;
+}
+
+.jujuba {
+
+  border-radius: 200px;
+  background: linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+  linear-gradient(127deg, rgba(0,255,0,.8), rgba(0,255,0,0) 70.71%),
+  linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+
+}
+
+img {
+  margin: 100px;
+  max-width: 80%;
+  max-height: 100%;
+  border-radius: 50px;
+}
+
+footer{
+  font-display: center;
+  background-color: antiquewhite;
+}
+
+.jujuba:hover{
+  background: url(https://imgur.com/Ypt56vB);
+}
